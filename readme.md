@@ -9,5 +9,4 @@ The idea was to use monte-carlo simulation to simulate the spread between pepsi 
 The emphasis was not so much on the trading strategy, but rather on the stochastic path simulation with embedded correlation and mean-reversion behaviour of the spread.
 
 ## Files
-
-the major code is in the ko_pep.ipynb file. there is also a three slide ppt to demonstrate the code.
+The major code is in the ko_pep.ipynb file. There is also a three slide ppt to demonstrate the code.
